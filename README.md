@@ -1,6 +1,6 @@
 ### Hello World! Eu sou a Ariane Vieira 👋
 
-🌱 I’m currently learning Java Full Stack.<br>
+🌱 I’m currently doing a Java Full Stack bootcamp.<br>
 🤔 I’m looking for help with my first job in this area.<br><br>
 
 
